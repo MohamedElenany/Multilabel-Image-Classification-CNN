@@ -17,7 +17,7 @@ The business value of this project is significant as it enhances the accuracy an
 ## Reproducing Results:
 To reproduce the results, please open the Jupyter notebook and run the entire notebook from top to bottom.
 
-To run the notebook, download both the notebook itself and the training/test files from the Kaggle competition (https://www.kaggle.com/c/mais202fall2021/). Ensure that all the files are placed in the same directory and then run the notebook from that location. For additional details, please refer to the project report provided above.
+To run the notebook, download both the notebook itself and the training/test files from the Kaggle competition (https://www.kaggle.com/c/comp-551-fall-2021/data). Ensure that all the files are placed in the same directory and then run the notebook from that location. For additional details, please refer to the project report provided above.
 
 ## Files uploaded:
 - **Model.ipynb:** Contains all project code, including data preprocessing, model training, and result evaluation.
