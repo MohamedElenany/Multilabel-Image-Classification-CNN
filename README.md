@@ -1,5 +1,4 @@
-# Multilabel Image Classification CNN
-# Fashion MNIST Classifier
+# Multilabel Image Classification with CNNs (Convolutional Neural Networks)
 
 ## About this project:
 This project is dedicated to exploring the potential of semi-supervised techniques in the development of a robust multilabel image classification model. The primary objective is to accurately identify alphanumeric characters within noisy images of handwritten text. Leveraging the Combo MNIST dataset, which contains both labeled and unlabeled data, the project aims to facilitate this exploration. The focus is on employing various convolutional neural network architectures, with ResNet50 emerging as the model that demonstrates superior performance. The ultimate aim is to equip the model to excel in real-world multilabel image classification scenarios, ensuring accuracy and efficiency in identifying characters within diverse and noisy images.
